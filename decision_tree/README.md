@@ -33,7 +33,7 @@ python3 decisionTree.py small_train.tsv small_test.tsv 2 small_2_train.labels sm
 ## outputs
 the terminal will print out the tree, here is an example:
 
-![tree_sample](decision_tree\tree_example.png)
+![tree_sample]tree_example.png)
 
 
 the label files (train_out, test_out) and the metric file

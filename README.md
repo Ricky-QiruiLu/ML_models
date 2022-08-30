@@ -1,2 +1,2 @@
-# ML_models
-several basic common machine learning models from scratch 
+# machine learning
+several machine learning models and machine learning pipelines from scratch

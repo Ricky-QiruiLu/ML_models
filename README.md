@@ -1,2 +1,2 @@
 # machine learning
-several machine learning models and machine learning pipelines from scratch
+several machine learning models from scratch and machine learning projects.
